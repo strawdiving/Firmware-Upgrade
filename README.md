@@ -7,6 +7,8 @@ Firmware upgrade module of ground control station(GCS) for PX4 FMUv2/ Pixhawk fl
 
 本程序针对的是pixhawk，PX4 FMU版本的飞控。
 
+注： 固件更新必须在飞机没有arm的情况下进行。
+
 ### 程序结构
 
 固件更新的提示及更新进度等信息显示在 **"/SetupWizard/FirmwarePage"** 页面中。
